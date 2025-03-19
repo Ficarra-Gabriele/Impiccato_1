@@ -1,0 +1,14 @@
+C:\Users\ficarra.gabriele\Desktop\augusto\augusto\bin\Debug\net7.0\augusto.exe
+C:\Users\ficarra.gabriele\Desktop\augusto\augusto\bin\Debug\net7.0\augusto.deps.json
+C:\Users\ficarra.gabriele\Desktop\augusto\augusto\bin\Debug\net7.0\augusto.runtimeconfig.json
+C:\Users\ficarra.gabriele\Desktop\augusto\augusto\bin\Debug\net7.0\augusto.dll
+C:\Users\ficarra.gabriele\Desktop\augusto\augusto\bin\Debug\net7.0\augusto.pdb
+C:\Users\ficarra.gabriele\Desktop\augusto\augusto\obj\Debug\net7.0\augusto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ficarra.gabriele\Desktop\augusto\augusto\obj\Debug\net7.0\augusto.AssemblyInfoInputs.cache
+C:\Users\ficarra.gabriele\Desktop\augusto\augusto\obj\Debug\net7.0\augusto.AssemblyInfo.cs
+C:\Users\ficarra.gabriele\Desktop\augusto\augusto\obj\Debug\net7.0\augusto.csproj.CoreCompileInputs.cache
+C:\Users\ficarra.gabriele\Desktop\augusto\augusto\obj\Debug\net7.0\augusto.dll
+C:\Users\ficarra.gabriele\Desktop\augusto\augusto\obj\Debug\net7.0\refint\augusto.dll
+C:\Users\ficarra.gabriele\Desktop\augusto\augusto\obj\Debug\net7.0\augusto.pdb
+C:\Users\ficarra.gabriele\Desktop\augusto\augusto\obj\Debug\net7.0\augusto.genruntimeconfig.cache
+C:\Users\ficarra.gabriele\Desktop\augusto\augusto\obj\Debug\net7.0\ref\augusto.dll
